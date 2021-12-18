@@ -1,0 +1,15 @@
+body {
+    /* background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%)!important; */
+    background-color: white;
+}
+
+.homePage,
+.ServicesPage {
+    min-height: 50vh;
+    background-color: white;
+}
+
+.navbar {
+    background-color: white;
+    color: mediumpurple;
+}
